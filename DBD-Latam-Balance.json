@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1765400997,
+	"Version": 1765401464,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -199,8 +199,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"19",
-				"29"
+				"19"
 			],
 			"BalanceTiers": [
 				0
@@ -549,10 +548,10 @@
 		{
 			"Name": "The Shape",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
-				"32",
-				"34"
+				"20",
+				"32"
 			],
 			"BalanceTiers": [
 				0
@@ -641,7 +640,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"19",
 				"34"
 			],
 			"BalanceTiers": [
@@ -1002,7 +1000,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"19",
 				"33"
 			],
 			"BalanceTiers": [
@@ -2868,6 +2865,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"276",
 				"200"
 			],
 			"KillerComboPerkBans": [],
