@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1765401464,
+	"Version": 1765403054,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1383,13 +1383,8 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				265,
-				268,
-				269,
-				273,
-				274,
-				277,
-				278
+				278,
+				273
 			],
 			"ItemWhitelist": [
 				0
