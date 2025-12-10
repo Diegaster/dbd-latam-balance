@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1765326102,
+	"Version": 1765400997,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -247,7 +247,8 @@
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [
-				"131"
+				"131",
+				"245"
 			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
@@ -1259,9 +1260,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"8",
-				"9"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1432,9 +1431,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"5",
-				"30"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1518,9 +1515,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"20",
-				"32",
-				"34"
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -1603,9 +1598,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"1",
-				"9"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -1686,9 +1679,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"12",
-				"47"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -1770,9 +1761,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"5",
-				"30"
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -1854,9 +1843,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"9",
-				"11"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -2024,9 +2011,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"5",
-				"7"
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -2110,9 +2095,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"8",
-				"11"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -2196,10 +2179,8 @@
 		{
 			"Name": "The Nemesis",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
-				"16",
-				"18",
 				"30"
 			],
 			"BalanceTiers": [
@@ -2372,8 +2353,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"5",
 				"9"
 			],
 			"BalanceTiers": [
@@ -2625,8 +2604,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"9"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -2706,7 +2684,7 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"1",
 				"2",
@@ -2793,7 +2771,7 @@
 		{
 			"Name": "The Skull Merchant",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"20",
 				"35",
@@ -2880,8 +2858,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
-				"8",
 				"33"
 			],
 			"BalanceTiers": [
@@ -2960,7 +2936,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"2",
 				"9"
 			],
 			"BalanceTiers": [
@@ -3047,7 +3022,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"8"
 			],
 			"BalanceTiers": [
@@ -3132,9 +3106,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
-				"8",
-				"47"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -3219,7 +3191,6 @@
 			"KillerNotes": "ES: No se permite interactuar con los cofres del Liche.\n\nEN: It is not allowed to interact with Lich's chests.",
 			"IsDisabled": false,
 			"Map": [
-				"19",
 				"33"
 			],
 			"BalanceTiers": [
@@ -3306,9 +3277,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42",
-				"9",
-				"10"
+				"8",
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -3389,9 +3359,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"9",
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -3565,7 +3533,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"9"
 			],
 			"BalanceTiers": [
 				0
