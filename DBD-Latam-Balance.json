@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1765403054,
+	"Version": 1765658829,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -106,9 +106,6 @@
 				"167",
 				"168",
 				"169",
-				"170",
-				"282",
-				"283",
 				"171",
 				"172",
 				"174",
@@ -1550,7 +1547,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				317,
 				318
 			],
 			"ItemWhitelist": [
@@ -1880,7 +1876,9 @@
 				392,
 				391,
 				390,
-				398
+				398,
+				396,
+				382
 			],
 			"ItemWhitelist": [
 				0,
@@ -2556,7 +2554,8 @@
 				554,
 				555,
 				557,
-				558
+				558,
+				548
 			],
 			"ItemWhitelist": [
 				0,
@@ -2811,7 +2810,9 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				611,
-				616
+				616,
+				617,
+				610
 			],
 			"ItemWhitelist": [
 				0
@@ -2889,7 +2890,8 @@
 				636,
 				635,
 				638,
-				637
+				637,
+				628
 			],
 			"ItemWhitelist": [
 				0,
@@ -2970,7 +2972,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				656,
 				655,
 				654,
 				653,
@@ -3056,7 +3057,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				677,
 				678,
 				668,
 				671
@@ -3227,9 +3227,7 @@
 			"IndividualAddonBans": [
 				717,
 				718,
-				713,
 				714,
-				715,
 				716
 			],
 			"ItemWhitelist": [
@@ -3308,8 +3306,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				737,
-				733,
 				738,
 				736,
 				735
@@ -3568,7 +3564,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				798,
-				797,
 				792,
 				788
 			],
