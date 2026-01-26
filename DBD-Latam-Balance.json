@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1766264766,
+	"Version": 1769468528,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -544,9 +544,8 @@
 		{
 			"Name": "The Shape",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"20",
 				"32"
 			],
 			"BalanceTiers": [
