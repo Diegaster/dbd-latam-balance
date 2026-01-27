@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1769470206,
+	"Version": 1769477434,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -557,11 +557,11 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"190"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"1",
-				"8",
 				"10",
 				"21",
 				"28",
@@ -573,19 +573,15 @@
 				"54",
 				"56",
 				"57",
-				"61",
 				"62",
-				"64",
 				"65",
 				"67",
-				"76",
 				"85",
 				"95",
 				"96",
 				"97",
 				"92",
 				"102",
-				"107",
 				"109",
 				"112",
 				"121",
@@ -602,10 +598,12 @@
 				98,
 				96,
 				95,
-				99
+				99,
+				94
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -788,7 +786,8 @@
 				139
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -965,7 +964,8 @@
 				174
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
