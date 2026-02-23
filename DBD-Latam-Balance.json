@@ -1,8 +1,8 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1769581104,
+	"Version": 1771832824,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "",
+	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -2023,6 +2023,7 @@
 				"199",
 				"200",
 				"219",
+				"220",
 				"230"
 			],
 			"KillerComboPerkBans": [],
