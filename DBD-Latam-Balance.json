@@ -1,8 +1,8 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1772071804,
+	"Version": 1773432941,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.",
+	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.\n\n- Se tienen que usar las 3 ofrendas de superviviente, no 1 o 2.\nEN: As survivor, the team must use the 3 offerings, not 1 or 2.",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -194,6 +194,10 @@
 				[
 					"146",
 					"156"
+				],
+				[
+					"297",
+					"210"
 				]
 			]
 		}
@@ -3660,7 +3664,8 @@
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				0
+				"4",
+				"6"
 			],
 			"BalanceTiers": [
 				0
@@ -3669,9 +3674,18 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"146",
+				"276",
+				"179",
+				"220"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"44",
+				"102",
+				"109"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3686,10 +3700,12 @@
 				825,
 				824,
 				834,
-				829,
 				823
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				6
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -3713,8 +3729,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
