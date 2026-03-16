@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1773432941,
+	"Version": 1773627270,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.\n\n- Se tienen que usar las 3 ofrendas de superviviente, no 1 o 2.\nEN: As survivor, the team must use the 3 offerings, not 1 or 2.",
 	"Tiers": [
@@ -144,7 +144,6 @@
 				"229",
 				"231",
 				"235",
-				"297",
 				"238",
 				"249",
 				"251",
@@ -400,6 +399,7 @@
 				"146",
 				"153",
 				"154",
+				"170",
 				"190",
 				"204",
 				"220",
@@ -488,6 +488,7 @@
 				"153",
 				"154",
 				"276",
+				"170",
 				"179",
 				"187",
 				"161",
@@ -1281,6 +1282,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"276",
+				"170",
 				"200",
 				"220"
 			],
@@ -1945,6 +1947,7 @@
 				"153",
 				"154",
 				"276",
+				"170",
 				"204",
 				"220",
 				"225"
@@ -2094,7 +2097,7 @@
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -2865,7 +2868,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"276",
-				"200"
+				"170",
+				"200",
+				"220"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -3437,6 +3442,7 @@
 			"KillerIndvPerkBans": [
 				"146",
 				"276",
+				"170",
 				"179",
 				"200",
 				"220"
@@ -3602,7 +3608,9 @@
 			"KillerIndvPerkBans": [
 				"146",
 				"276",
-				"200"
+				"170",
+				"200",
+				"220"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -3662,7 +3670,7 @@
 		{
 			"Name": "The First",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"4",
 				"6"
@@ -3677,6 +3685,7 @@
 			"KillerIndvPerkBans": [
 				"146",
 				"276",
+				"170",
 				"179",
 				"220"
 			],
