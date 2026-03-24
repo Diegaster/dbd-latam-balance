@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1773882443,
+	"Version": 1774311953,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.\n\n- Se tienen que usar las 3 ofrendas de superviviente, no 1 o 2.\nEN: As survivor, the team must use the 3 offerings, not 1 or 2.",
 	"Tiers": [
@@ -21,6 +21,7 @@
 				"247",
 				"19",
 				"20",
+				"73",
 				"22",
 				"24",
 				"25",
@@ -34,6 +35,7 @@
 				"248",
 				"40",
 				"279",
+				"108",
 				"43",
 				"280",
 				"303",
@@ -56,7 +58,6 @@
 				"69",
 				"259",
 				"269",
-				"73",
 				"74",
 				"295",
 				"77",
@@ -74,7 +75,6 @@
 				"275",
 				"105",
 				"106",
-				"108",
 				"110",
 				"263",
 				"111",
@@ -136,13 +136,13 @@
 				"278",
 				"205",
 				"284",
-				"209",
 				"211",
 				"292",
 				"216",
 				"272",
 				"219",
 				"298",
+				"209",
 				"227",
 				"229",
 				"231",
@@ -230,7 +230,6 @@
 				"21",
 				"28",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -252,7 +251,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1036,11 +1036,15 @@
 				"219",
 				"230"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"170",
+					"220"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1051,9 +1055,12 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[]
+			],
 			"SurvivorWhitelistedPerks": [
 				"65"
 			],
@@ -1701,9 +1708,13 @@
 				"219",
 				"230"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"170",
+					"220"
+				]
+			],
 			"SurvivorIndvPerkBans": [
-				"36",
 				"38",
 				"44",
 				"57",
@@ -1713,7 +1724,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2291,10 +2303,14 @@
 				"219",
 				"230"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"170",
+					"220"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"34",
-				"36",
 				"38",
 				"44",
 				"101",
@@ -2306,9 +2322,12 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -2374,9 +2393,13 @@
 				"219",
 				"230"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"170",
+					"220"
+				]
+			],
 			"SurvivorIndvPerkBans": [
-				"36",
 				"38",
 				"44",
 				"57",
@@ -2387,7 +2410,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2623,10 +2647,14 @@
 				"219",
 				"230"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"170",
+					"220"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"34",
-				"36",
 				"38",
 				"44",
 				"57",
@@ -2636,7 +2664,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3282,12 +3311,12 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"276",
+				"170",
 				"200",
 				"220"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"36",
 				"38",
 				"44",
 				"57",
@@ -3295,7 +3324,8 @@
 				"102",
 				"109",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3675,8 +3705,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"6"
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -3689,14 +3718,19 @@
 				"146",
 				"276",
 				"170",
-				"179",
-				"220"
+				"179"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"21",
 				"44",
+				"76",
 				"102",
-				"109"
+				"109",
+				"112",
+				"121",
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
