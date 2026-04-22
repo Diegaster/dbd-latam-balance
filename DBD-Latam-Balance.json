@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1776739638,
+	"Version": 1776827939,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.\n\n- Se tienen que usar las 3 ofrendas de superviviente, no 1 o 2.\nEN: As survivor, the team must use the 3 offerings, not 1 or 2.",
 	"Tiers": [
@@ -1196,6 +1196,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"8"
 			],
 			"BalanceTiers": [
@@ -1218,7 +1219,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1230,7 +1230,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1444,6 +1445,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"8",
 				"33"
 			],
 			"BalanceTiers": [
@@ -1464,18 +1466,19 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
 				"57",
+				"65",
 				"76",
 				"92",
 				"102",
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1610,7 +1613,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"0",
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -1630,7 +1634,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1643,7 +1646,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1715,6 +1719,7 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
+				"34",
 				"38",
 				"44",
 				"57",
@@ -2112,9 +2117,10 @@
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"0"
+				"0",
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -2134,7 +2140,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2146,7 +2151,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3047,7 +3053,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"8",
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -3067,7 +3074,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3079,7 +3085,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3215,6 +3222,7 @@
 			"KillerNotes": "ES: No se permite interactuar con los cofres del Liche.\n\nEN: It is not allowed to interact with Lich's chests.",
 			"IsDisabled": false,
 			"Map": [
+				"19",
 				"33"
 			],
 			"BalanceTiers": [
@@ -3235,7 +3243,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3247,7 +3254,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3376,7 +3384,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"0",
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -3396,7 +3405,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3408,7 +3416,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
