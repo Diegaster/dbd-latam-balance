@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1782012147,
+	"Version": 1786603237,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.\n\n- Se tienen que usar las 3 ofrendas de superviviente, no 1 o 2.\nEN: As survivor, the team must use the 3 offerings, not 1 or 2.",
 	"Tiers": [
@@ -31,6 +31,7 @@
 				"286",
 				"288",
 				"30",
+				"312",
 				"33",
 				"248",
 				"40",
@@ -54,6 +55,7 @@
 				"59",
 				"289",
 				"62",
+				"313",
 				"66",
 				"69",
 				"259",
@@ -93,6 +95,7 @@
 				"304",
 				"128",
 				"254",
+				"314",
 				"130"
 			],
 			"KillerIndvPerkBans": [
