@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Latam Balance",
-	"Version": 1786603237,
+	"Version": 1787366813,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "- No se permite abrir cofres. \nEN: It is not allowed to open chests.\n\n- No se permite repetición de items ni ofrendas.\nEN: It is not allowed to repeat items, neither offerings.\n\n- Se tienen que usar las 3 ofrendas de superviviente, no 1 o 2.\nEN: As survivor, the team must use the 3 offerings, not 1 or 2.",
 	"Tiers": [
@@ -216,8 +216,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"19"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -310,7 +309,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"32",
 				"33"
 			],
 			"BalanceTiers": [
@@ -328,7 +326,6 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -344,7 +341,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -589,7 +587,6 @@
 				"21",
 				"28",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -609,7 +606,8 @@
 				"112",
 				"121",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -682,7 +680,6 @@
 				"21",
 				"28",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -705,7 +702,8 @@
 				"112",
 				"121",
 				"123",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -762,7 +760,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"9",
+				"54"
 			],
 			"BalanceTiers": [
 				0
@@ -780,7 +779,6 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -796,7 +794,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -846,6 +845,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"8"
 			],
 			"BalanceTiers": [
@@ -867,7 +867,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -879,7 +878,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -951,7 +951,6 @@
 				"21",
 				"28",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -973,7 +972,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1024,6 +1024,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"33"
 			],
 			"BalanceTiers": [
@@ -1137,7 +1138,6 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1153,7 +1153,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1555,7 +1556,6 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1571,7 +1571,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1620,6 +1621,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
+				"8",
 				"9"
 			],
 			"BalanceTiers": [
@@ -1787,7 +1789,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"4",
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1807,7 +1810,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1820,7 +1822,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1870,6 +1873,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"8"
 			],
 			"BalanceTiers": [
@@ -1890,7 +1894,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -1902,7 +1905,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2041,7 +2045,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"4",
+				"14"
 			],
 			"BalanceTiers": [
 				0
@@ -2064,7 +2069,6 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
-				"36",
 				"38",
 				"44",
 				"57",
@@ -2073,7 +2077,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2212,6 +2217,7 @@
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
+				"0",
 				"30"
 			],
 			"BalanceTiers": [
@@ -2230,7 +2236,6 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2246,7 +2251,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2490,7 +2496,6 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2506,7 +2511,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2577,7 +2583,6 @@
 				"8",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2589,7 +2594,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2727,9 +2733,7 @@
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"1",
-				"2",
-				"11"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -2749,7 +2753,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2761,7 +2764,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2814,9 +2818,7 @@
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				"20",
-				"35",
-				"56"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -2834,7 +2836,6 @@
 				"11",
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -2850,7 +2851,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2901,6 +2903,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"1",
 				"33"
 			],
 			"BalanceTiers": [
@@ -3166,7 +3169,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3178,7 +3180,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3231,7 +3234,7 @@
 			"KillerNotes": "ES: No se permite interactuar con los cofres del Liche.\n\nEN: It is not allowed to interact with Lich's chests.",
 			"IsDisabled": false,
 			"Map": [
-				"19",
+				"49",
 				"33"
 			],
 			"BalanceTiers": [
@@ -3316,6 +3319,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"8",
 				"9"
 			],
@@ -3393,8 +3397,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"9"
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -3579,7 +3582,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -3592,7 +3594,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
